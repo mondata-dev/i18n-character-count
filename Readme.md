@@ -1,6 +1,6 @@
 # i18n-character-count
 
-Very simple character counter for counting up characters in an i18n system that is based 
+Very simple node character counter for counting up characters in an i18n system that is based 
 on js objects in js files. This is very rudimentary and might break easily.
 
 ### How to run

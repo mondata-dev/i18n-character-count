@@ -1,13 +1,14 @@
 {
   "name": "i18n-character-count",
   "version": "0.0.1",
-  "description": "parses js files and counts the number string characters in all the values it finds",
+  "description": "npm script that parses js files and counts the number string characters in all the values it finds",
   "main": "index.js",
   "scripts": {
     "count": "node -r esm index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "node",
     "i18n",
     "js",
     "json",
