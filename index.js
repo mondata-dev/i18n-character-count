@@ -2,8 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const argv = require('minimist')(process.argv.slice(2));
 
-console.log(argv);
-
 const countString = function (acc, s) {
     if (typeof s === "string") {
         return acc + s.length;
