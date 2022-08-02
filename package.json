@@ -4,7 +4,7 @@
   "description": "npm script that parses js files and counts the number string characters in all the values it finds",
   "main": "index.js",
   "scripts": {
-    "count": "node -r esm index.js",
+    "count": "node -r esm index.js"
   },
   "keywords": [
     "node",
